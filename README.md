@@ -18,7 +18,7 @@ Next.js · React · Redux · ethers.js · web3.js · Web3Modal + WalletConnect �
 
 Requires Node.js and a browser wallet such as MetaMask.
 
-Create `.env.local` with the network and contract settings:
+Copy `.env.example` to `.env.local` and fill in the network and contract settings:
 
 ```
 NEXT_PUBLIC_CODO_PRESALE=0x...     # presale contract address
